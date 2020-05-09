@@ -1,6 +1,7 @@
 # Add your variables here
-first_number = 5
-second_number = 6
-sum = 11
-difference = -1
-product = 30
+first_number = 10
+second_number = 2
+sum = 12
+difference = 8
+product = 20
+
